@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Dep vs
+                    Laravel Dep vs Hooks
                 </div>
 
                 <div class="links">
