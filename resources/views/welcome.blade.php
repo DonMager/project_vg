@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Dep
+                    Laravel Dep sis
                 </div>
 
                 <div class="links">
